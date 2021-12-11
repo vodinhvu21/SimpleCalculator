@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="s_th_hai">Số thứ hai:</string>
+    <string name="ph_p_t_nh">Phép tính:</string>
+    <string name="s_th_nh_t">Số thứ nhất:</string>
+    <string name="k_t_qu">Kết quả</string>
+    <string name="simple_calculator">Simple Calculator</string>
+</resources>
